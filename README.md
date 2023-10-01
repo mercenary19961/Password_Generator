@@ -1,5 +1,5 @@
 # Password_Generator
-An app for windows that saves data of your accounts and can generate hard to crack passwords of it then saves them in a list.
+An app for windows that saves data of your accounts and can generate hard to crack passwords, then saves them in a list.
 ####################################################### HOW TO USE ##########################################################
 1- Type the name of a website that you want to generate a password to in the "website:" box.
 2- Insert your sociated email that you use to log in useually "mostly it's gmail/yahoo/hotmail/etc" in the box beside "Email/Username". example :- "myemail@gmail.com".
